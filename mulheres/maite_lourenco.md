@@ -22,3 +22,8 @@ Profissional multidisciplinar que viu na tecnologia uma oportunidade para dar vo
 ## Impacto Social e Representatividade
 
 ...
+
+## Fontes
+
+- [Maitê Lourenço - LinkedIn](https://www.linkedin.com/in/maitelourenco/)
+- [Conheça a mulher que acelera as startups negras no Brasil - iFood - Institucional](https://institucional.ifood.com.br/inovacao/conheca-a-mulher-que-acelera-as-startups-negras-no-brasil/)

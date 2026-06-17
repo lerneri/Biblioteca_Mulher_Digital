@@ -1,9 +1,10 @@
 "A tecnologia transforma o mundo, mas a diversidade transforma a tecnologia." 
 
 
-<img src="../imagens/lisiane_lemos.png" width="300" alt="Lisiane Lemos">
+<img src="../imagens/lisiane_lemos.png" width="500" alt="Lisiane Lemos">
 
-## Parte 1: Biografia: 
+
+## Parte 1 - Biografia:
 
 📌 Quem é Lisiane Lemos?
 
@@ -45,11 +46,28 @@ Ganhou destaque nacional por coordenar ações de inclusão digital durante as e
 Assumiu o cargo de Secretária de Inovação, Ciência e Tecnologia do Rio Grande do Sul
 
 
-## SoftSkills: 
+## Parte2 - SoftSkills: 
 
 ---
 
 
-## Impacto social e representatividade: 
+## Parte 3 - Impacto social e representatividade: 
 
 A trajetória de Lisiane Lemos mostra que representatividade, conhecimento e liderança podem abrir caminhos para mais mulheres na tecnologia.
+
+
+## Referência: 
+
+GOVERNO DO ESTADO DO RIO GRANDE DO SUL. Lisiane Lemos toma posse como secretária de Inclusão Digital e Apoio às Políticas de Equidade. Porto Alegre, 23 fev. 2023. Disponível em: Portal do Estado do RS - Posse de Lisiane Lemos. Acesso em: 17 jun. 2026.
+
+GOVERNO DO ESTADO DO RIO GRANDE DO SUL. Secretaria Extraordinária de Inclusão Digital e Apoio às Políticas de Equidade. Porto Alegre, [s.d.]. Disponível em: Secretaria Extraordinária de Inclusão Digital e Apoio às Políticas de Equidade. Acesso em: 17 jun. 2026.
+
+SECRETARIA DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO SUL. Lisiane Lemos. Porto Alegre, [s.d.]. Disponível em: Perfil institucional de Lisiane Lemos - SICT RS. Acesso em: 17 jun. 2026.
+
+SECRETARIA DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO SUL. Lisiane Lemos é a nova secretária de Inovação, Ciência e Tecnologia. Porto Alegre, 7 abr. 2026. Disponível em: Nomeação de Lisiane Lemos para a SICT. Acesso em: 17 jun. 2026.
+
+JORNAL DO COMÉRCIO. Ex-Google e Microsoft, nova secretária de Inclusão Digital do RS quer trazer experiência do privado para o governo. Porto Alegre, 31 mar. 2023. Disponível em: Entrevista com Lisiane Lemos - Jornal do Comércio. Acesso em: 17 jun. 2026.
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE (FURG). FURG recebe a visita da nova secretária de Inovação, Ciência e Tecnologia do RS. Rio Grande, 25 maio 2026. Disponível em: Notícia da FURG sobre Lisiane Lemos. Acesso em: 17 jun. 2026.
+
+MOS, Lisiane. Lisiane Lemos: Secretária de Estado | Diretora / VP em Tecnologia & Digital Transformation | Strategic Partnerships | Ex-Google & Microsoft | Forbes Under 30. LinkedIn, [s.d.]. Disponível em: LinkedIn de Lisiane Lemos. Acesso em: 17 jun. 2026.

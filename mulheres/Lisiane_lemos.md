@@ -46,7 +46,7 @@ Ganhou destaque nacional por coordenar ações de inclusão digital durante as e
 Assumiu o cargo de Secretária de Inovação, Ciência e Tecnologia do Rio Grande do Sul
 
 
-## Parte2 - SoftSkills: 
+## Parte 2 - SoftSkills: 
 
 ---
 
@@ -56,7 +56,7 @@ Assumiu o cargo de Secretária de Inovação, Ciência e Tecnologia do Rio Grand
 A trajetória de Lisiane Lemos mostra que representatividade, conhecimento e liderança podem abrir caminhos para mais mulheres na tecnologia.
 
 
-## Referência: 
+## Referências: 
 
 GOVERNO DO ESTADO DO RIO GRANDE DO SUL. Lisiane Lemos toma posse como secretária de Inclusão Digital e Apoio às Políticas de Equidade. Porto Alegre, 23 fev. 2023. Disponível em: Portal do Estado do RS - Posse de Lisiane Lemos. Acesso em: 17 jun. 2026.
 

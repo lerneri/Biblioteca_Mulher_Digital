@@ -1,4 +1,6 @@
-"A tecnologia transforma o mundo, mas a diversidade transforma a tecnologia." ![teste](https://github.com/jadedinizz/Biblioteca_Mulher_Digital/blob/main/imagens/imagem_2026-06-17_192736879.png)
+"A tecnologia transforma o mundo, mas a diversidade transforma a tecnologia." 
+
+![teste](https://github.com/jadedinizz/Biblioteca_Mulher_Digital/blob/main/imagens/imagem_2026-06-17_192736879.png)
 
 📌 Quem é Lisiane Lemos?
 

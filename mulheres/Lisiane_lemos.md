@@ -1,6 +1,9 @@
 "A tecnologia transforma o mundo, mas a diversidade transforma a tecnologia." 
 
-![teste](https://github.com/jadedinizz/Biblioteca_Mulher_Digital/blob/main/imagens/imagem_2026-06-17_192736879.png)
+
+<img src="../imagens/lisiane_lemos.png" width="300" alt="Lisiane Lemos">
+
+## Parte 1: Biografia: 
 
 📌 Quem é Lisiane Lemos?
 
@@ -42,4 +45,11 @@ Ganhou destaque nacional por coordenar ações de inclusão digital durante as e
 Assumiu o cargo de Secretária de Inovação, Ciência e Tecnologia do Rio Grande do Sul
 
 
+## SoftSkills: 
 
+---
+
+
+## Impacto social e representatividade: 
+
+A trajetória de Lisiane Lemos mostra que representatividade, conhecimento e liderança podem abrir caminhos para mais mulheres na tecnologia.

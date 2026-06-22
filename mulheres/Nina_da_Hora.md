@@ -1,6 +1,8 @@
 # Nina da Hora
 ## @ninadhora
 
+![Nina da Hora sorrindo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkTRcdCXZtWlGT2rzFBxxupoQHnouiE9XJoQ76YxpXIhrjiFoi2s4SZ9REQPkdgVx5FZmLuy846Ul6UZVZV3gnNCorPpoISifzcPPeQ&s=10)
+
 *Ana Carolina Silva das Neves da Hora*, conhecida como *Nina da Hora*, é cientista da computação pela PUC-Rio, pesquisadora na área de Pensamento Computacional, mais especificamente nos tópicos de inteligência artificial, visão computacional e reconhecimento facial como infraestruturas de representação, com foco nas formas pelas quais pipelines algorítmicas produzem legibilidade, exclusão e apagamento antes mesmo da etapa final de decisão. A pesquisadora também se apresenta como hacker antirracista dedicada a criar tecnologias decoloniais.
 
 Em 2016 foi coordenadora do projeto Pyladies, que ensinava a linguagem de programação para outras mulheres. Criadora do Computação da Hora, um canal do YouTube, criando para ensinar conceitos e pensamento computacional com linguagem acessível; além de partilhar a história de cientistas africanos e legados negros no podcast Ogunhê, onde realiza entrevistas e constrói pontes entre o continente africano e o Brasil na área de hard sciences.

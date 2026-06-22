@@ -47,7 +47,26 @@ Assumiu o cargo de Secretária de Inovação, Ciência e Tecnologia do Rio Grand
 
 ## Parte 2 - SoftSkills: 
 
----
+Lisiane Lemos é amplamente reconhecida como uma das lideranças mais influentes do Brasil. Sua trajetória foi marcada por gigantes como Microsoft e Google e ela especializou-se na implementação de soluções digitais e estratégias de nuvem para grandes empresas. Além de sua atuação no setor público como Secretária de Estado no Rio Grande do Sul, é sustentada por um conjunto excepcional de soft skills
+
+ • Comunicação Assertiva e Didática Descomplicada;
+É capacidade de traduzir temas técnicos complexos, como Inteligência Artificial e governança corporativa, em uma linguagem acessível e atraente para públicos diversos.
+Lisiane consolidou sua marca pessoal tornando-se TEDx Speaker e LinkedIn Top Voice. Ela utiliza essa habilidade para democratizar o conhecimento digital, alcançando e educando mais de 50 mil alunos em cursos online de desenvolvimento profissional.
+
+ •Liderânça Inclusiva e Visão Social;
+ É a habilidade de liderar com foco em abrir caminhos e mentorar grupos minorizados. Ao perceber a falta de representatividade meio corporativo, ela cofundou o Instituto Conselheira 101 (focado em incluir mulheres negras e indígenas em conselhos de administração).
+ - Lisiane também criou e liderou iniciativas como a Rede Profissionais Negros;
+ - Ela conseguiu mobizar milhares de pessoas em redes de apoio e desenvolvimento profissional;
+ - Ampliou a participação de mulheres negras em conselhos de administração.
+
+ • Adaptabilidade e Gestão de Mudança;
+A gestão de mudança é o conjunto de estratégias e práticas usado para apoiar pessoas e organizações em transformações estruturais. A adaptabilidade é a capacidade de transicionar entre realidades distintas e de se reinventar de forma eficaz. Formada originalmente em Direito, Lisiane Lemos migrou com sucesso para a área de tecnologia comercial em Big Techs e, posteriormente, aceitou o desafio de ir para o setor público.
+
+ • Inteligência emocional e Resiliência;
+Capacidade de superar adversidades severas e manter o equilíbrio diante de crises, transformando desafios em oportunidades de aprendizado. Aos 23 anos, enquanto realizava trabalho humanitário em Moçambique, sofreu um grave acidente que quase lhe custou a perna. Em vez de se desencorajar, usou a resiliência desenvolvida para lidar com ambientes altamente competitivos, alcançando posições de liderança antes dos 30 anos.
+
+A trajetória de Lisiane Lemos comprova que o domínio técnico abre portas, mas são as competências interpessoais, as conhecidas soft skills, que consolidam a liderança e geram impacto social sustentável. Lisiane identificou problemas reais enfrentados por profissionais negros e mulheres e desenvolveu soluções que geraram um impacto social concreto.
+
 
 
 ## Parte 3 - Impacto social e representatividade: 

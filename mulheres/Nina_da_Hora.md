@@ -16,3 +16,21 @@ Ministra aulas e palestras sobre ciência e educação, pensamento computacional
 Participou do painel sobre afrofuturismo e protagonismo negro no último Wired Festival Brasil, realizado pela Edições Globo Condé Nast, em 2022.
 
 Em março de 2022, recebeu o Prêmio Nise da Silveira pela Secretaria de Políticas de Promoção da Mulher, do Rio de Janeiro, na categoria Tecnologias, por votação popular.
+
+## Soft skills
+
+* Liderança: coordenou o projeto Pyladies e participa de conselhos, comissões e iniciativas de impacto nacional.
+* Comunicação clara e didática: produz conteúdo educacional no YouTube, ministra aulas e palestras e atua como colunista.
+* Capacidade de ensino e mentoria: dedica-se à formação de outras pessoas em programação, pensamento computacional e tecnologia.
+* Trabalho em equipe e colaboração: participa de grupos multidisciplinares, conselhos e projetos de pesquisa.
+* Pensamento crítico: analisa os impactos sociais, éticos e políticos das tecnologias, especialmente da inteligência artificial e do reconhecimento facial.
+* Consciência ética: sua atuação em ética em IA e racismo algorítmico demonstra preocupação com responsabilidade social e tecnológica.
+* Empatia e sensibilidade social: busca compreender como tecnologias afetam grupos historicamente marginalizados.
+* Engajamento social: atua na promoção da diversidade, inclusão e equidade no campo da tecnologia.
+* Influência e capacidade de mobilização: cria iniciativas, conteúdos e debates que aproximam ciência e sociedade.
+* Proatividade e iniciativa: fundou projetos próprios, como Computação da Hora e o podcast Ogunhê.
+* Adaptabilidade: transita entre pesquisa acadêmica, desenvolvimento tecnológico, educação, comunicação e participação institucional.
+* Networking: conecta diferentes comunidades, como pesquisadores, estudantes, profissionais de tecnologia e interlocutores do Brasil e da África.
+* Oratória e apresentação em público: participa de festivais, painéis, palestras e eventos de grande alcance.
+* Resolução de problemas complexos: atua em temas técnicos e sociais que exigem análise multidimensional.
+* Visão estratégica: contribui para discussões sobre transparência eleitoral, segurança digital e governança tecnológica.
